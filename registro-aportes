@@ -1,0 +1,97 @@
+using System;
+
+namespace RegistroAportesEstructuras
+{
+    struct Integrante
+    {
+        public int id;
+        public string nombre;
+        public string apellido;
+        public decimal[] aportes; // Vector para aportes mensuales
+    }
+
+    class Program
+    {
+        const int MAX = 5; // Número máximo de integrantes
+        const int MESES = 3; // Número de meses registrados
+        static Integrante[] integrantes = new Integrante[MAX];
+        static int contador = 0;
+
+        static void Main(string[] args)
+        {
+            int opcion;
+            do
+            {
+                Console.WriteLine("===== Menú de Registro de Aportes =====");
+                Console.WriteLine("1. Agregar integrante");
+                Console.WriteLine("2. Mostrar aportes");
+                Console.WriteLine("3. Salir");
+                Console.Write("Ingrese su opción: ");
+                opcion = int.Parse(Console.ReadLine());
+
+                switch (opcion)
+                {
+                    case 1:
+                        AgregarIntegrante();
+                        break;
+                    case 2:
+                        MostrarAportes();
+                        break;
+                    case 3:
+                        Console.WriteLine("Fin del programa.");
+                        break;
+                    default:
+                        Console.WriteLine("Opción inválida.");
+                        break;
+                }
+            } while (opcion != 3);
+        }
+
+        static void AgregarIntegrante()
+        {
+            if (contador >= MAX)
+            {
+                Console.WriteLine("No se pueden registrar más integrantes.");
+                return;
+            }
+
+            Integrante nuevo;
+            nuevo.aportes = new decimal[MESES];
+
+            Console.Write("ID: ");
+            nuevo.id = int.Parse(Console.ReadLine());
+
+            Console.Write("Nombre: ");
+            nuevo.nombre = Console.ReadLine();
+
+            Console.Write("Apellido: ");
+            nuevo.apellido = Console.ReadLine();
+
+            for (int i = 0; i < MESES; i++)
+            {
+                Console.Write($"Aporte del mes {i + 1}: ");
+                nuevo.aportes[i] = decimal.Parse(Console.ReadLine());
+            }
+
+            integrantes[contador] = nuevo;
+            contador++;
+            Console.WriteLine("Integrante registrado con éxito.\n");
+        }
+
+        static void MostrarAportes()
+        {
+            for (int i = 0; i < contador; i++)
+            {
+                Integrante ing = integrantes[i];
+                Console.WriteLine($"\nID: {ing.id}, Nombre: {ing.nombre} {ing.apellido}");
+                decimal total = 0;
+                for (int j = 0; j < MESES; j++)
+                {
+                    Console.WriteLine($"  Mes {j + 1}: ${ing.aportes[j]}");
+                    total += ing.aportes[j];
+                }
+                Console.WriteLine($"  Total aportado: ${total}");
+            }
+        }
+    }
+}
