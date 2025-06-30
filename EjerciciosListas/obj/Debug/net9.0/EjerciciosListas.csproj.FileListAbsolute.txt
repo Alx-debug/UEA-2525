@@ -1,0 +1,14 @@
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\bin\Debug\net9.0\EjerciciosListas.exe
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\bin\Debug\net9.0\EjerciciosListas.deps.json
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\bin\Debug\net9.0\EjerciciosListas.runtimeconfig.json
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\bin\Debug\net9.0\EjerciciosListas.dll
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\bin\Debug\net9.0\EjerciciosListas.pdb
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.AssemblyInfoInputs.cache
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.AssemblyInfo.cs
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.csproj.CoreCompileInputs.cache
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.dll
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\refint\EjerciciosListas.dll
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.pdb
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\EjerciciosListas.genruntimeconfig.cache
+C:\Users\alexa.ALEX\OneDrive\Escritorio\UEA\EjerciciosListas\EjerciciosListas\obj\Debug\net9.0\ref\EjerciciosListas.dll
