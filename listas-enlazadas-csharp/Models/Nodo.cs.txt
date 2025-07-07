@@ -1,0 +1,14 @@
+namespace ListasEnlazadas.Models
+{
+    public class Nodo
+    {
+        public int Data { get; set; }
+        public Nodo? Next { get; set; }
+
+        public Nodo(int data)
+        {
+            Data = data;
+            Next = null;
+        }
+    }
+}
