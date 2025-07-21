@@ -1,0 +1,14 @@
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\bin\Debug\net9.0\SEMANA_8.exe
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\bin\Debug\net9.0\SEMANA_8.deps.json
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\bin\Debug\net9.0\SEMANA_8.runtimeconfig.json
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\bin\Debug\net9.0\SEMANA_8.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\bin\Debug\net9.0\SEMANA_8.pdb
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.AssemblyInfo.cs
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\refint\SEMANA_8.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.pdb
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\SEMANA_8.genruntimeconfig.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_8\obj\Debug\net9.0\ref\SEMANA_8.dll
