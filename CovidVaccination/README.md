@@ -1,18 +1,15 @@
-# Campaign Vaccination Data
+Datos de la campaña de vacunación
+Esta aplicación de consola genera una lista ficticia de 500 ciudadanos y les asigna vacunas aleatoriamente:
 
-This console application generates a fictitious list of 500 citizens and randomly assigns vaccinations:
+75 ciudadanos vacunados con Pfizer
+75 ciudadanos vacunados con AstraZeneca
+Utilizando operaciones de teoría de conjuntos, produce:
 
-- 75 citizens vaccinated with Pfizer
-- 75 citizens vaccinated with AstraZeneca
-
-Using set theory operations it produces:
-
-- Citizens that have not been vaccinated
-- Citizens that received both vaccines
-- Citizens that only received the Pfizer vaccine
-- Citizens that only received the AstraZeneca vaccine
-
-To run the program you need the .NET SDK installed:
+Ciudadanos que no han sido vacunados
+Ciudadanos que recibieron ambas vacunas
+Ciudadanos que solo recibieron la vacuna Pfizer
+Ciudadanos que solo recibieron la vacuna AstraZeneca
+Para ejecutar el programa, necesitas tener instalado el SDK de .NET:
 
 ```bash
 dotnet run --project CovidVaccination
