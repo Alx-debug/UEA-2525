@@ -1,0 +1,14 @@
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.exe
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.deps.json
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.runtimeconfig.json
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfo.cs
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\refint\CatalogoRevistas.dll
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.genruntimeconfig.cache
+C:\Users\L E N O V O\Desktop\UEA\ESTRUCTURA DE DATOS\ALEX-DEBUG\SEMANA_13\CatalogoRevistas\obj\Debug\net9.0\ref\CatalogoRevistas.dll
